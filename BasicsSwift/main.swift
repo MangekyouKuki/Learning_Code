@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+let Name = "Lukasz"
+var age = 25
+
+print("Hello, \(Name)! You are \(age) years old.")
 
